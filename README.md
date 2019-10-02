@@ -49,3 +49,12 @@ Se deu tudo certo você verá algo do tipo:
 ## Frontend
 
 Em breve !! 
+
+
+## Dicas
+
+- Se você quiser ignorar os arquivos `.env` de serem comitados e eventualmente enviar sua url de conexão para o github, execute o seguinte comando:
+
+```
+git update-index --assume-unchanged <O ARQUIVO AQUI>
+```
