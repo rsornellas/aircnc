@@ -1,0 +1,20 @@
+{
+  "name": "aircnc",
+  "version": "1.0.0",
+  "description": "Aplicativo Aircnc da Semana OmniStack 9, só que em Vuejs.",
+  "scripts": {
+    "start": "cd backend && node src/index.js",
+    "build": "cd backend && npm install && cd .. && cd frontend && npm install && npm run build && cd .."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielschmitz/aircnc.git"
+  },
+  "keywords": [],
+  "author": "Daniel Schmitz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielschmitz/aircnc/issues"
+  },
+  "homepage": "https://aircncvue.herokuapp.com/"
+}
