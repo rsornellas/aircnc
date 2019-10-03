@@ -51,6 +51,7 @@ Se deu tudo certo você verá algo do tipo:
 Em breve !! 
 
 
+
 ## Dicas
 
 - Se você quiser ignorar os arquivos `.env` de serem comitados e eventualmente enviar sua url de conexão para o github, execute o seguinte comando:
