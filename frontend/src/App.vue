@@ -13,7 +13,7 @@
   box-sizing: border-box;
 }
 html, body, #app {
-  min-height: 100px;
+  min-height: 100%;
 }
 
 body {
